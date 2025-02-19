@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My Name is Parid, and i'm a Junior Developer.
+Hi 👋! My Name is Parid, and i'm a Junior Developer. \n
 Listened to Music🎧, Sometime CTF(Capture The Flag)🚩
 
 ## 🌐 Socials:
