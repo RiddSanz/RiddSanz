@@ -2,6 +2,9 @@
 Hi 👋! My Name is Parid, and i'm a Junior Developer.
 
 
+My Major Is Computer Engineering🖥️
+
+
 Listened to Music🎧, Sometimes doing CTF for fun🚩
 
 
