@@ -36,13 +36,12 @@ And also, I Have interests in CyberSec🔒
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
--->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riddsanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-!(https://github-readme-streak-stats.herokuapp.com/?user=riddsanz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=riddsanz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddsanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
