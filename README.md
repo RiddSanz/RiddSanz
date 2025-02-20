@@ -43,7 +43,7 @@ And also, I Have interests in CyberSec🔒
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddsanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote Today
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!--
 ### 🔝 Top Contributed Repo
