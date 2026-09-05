@@ -1,63 +1,74 @@
-# 💫 About Me:
-Hi 👋! My Name is Parid, And I'm a Junior Developer
+<div align="center">
 
+  <h1>Hi there, I'm Farid 👋</h1>
+  <p><strong>Informatics Engineering Student | DevOps, Cloud & CyberSec Enthusiast</strong></p>
 
-My Major Is Computer Engineering🖥️
+  <p>
+    <a href="https://instagram.com/itsmeridd_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/riddsanz"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" alt="X" /></a>
+    <a href="https://tiktok.com/@secondarid_"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white" alt="TikTok" /></a>
+    <a href="mailto:saintparid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-
-Listened to Music🎧, Sometimes doing CTF for fun🚩
-
-
-And also, I Have interests in CyberSec🔒
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmeridd_) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@secondarid_) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riddsanz) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saintparid@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-<!--
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
--->
-
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riddsanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riddsanz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=riddsanz&theme=dark&hide_border=false)<br/>
-
-
-### ✍️ Dev Quote Today
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=riddsanz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riddsanz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/faridachmad117) 
+### 💫 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Undergraduate student majoring in **Informatics Engineering**.
+- 🐧 Focused on **Linux System Administration**, **CI/CD Pipelines**, and **DevOps** workflows.
+- 🛡️ Passionate about **Cybersecurity** & playing **CTF** challenges for fun.
+- ⚙️ Love automating environments, experimenting with self-hosted runners, and cloud deployments.
+
+---
+
+### 🚀 Featured Deployments & Workflows
+
+Workflows and automated runners managed across secondary/infrastructure repos:
+
+- 🐧 **[purdue-deva/vps](https://github.com/purdue-deva/vps)** — Automated Linux Runner environment & server configuration scripts.
+- 🪟 **[purdue-deva/bot](https://github.com/purdue-deva/bot)** — Automated Windows Runner environment & execution bots.
+
+---
+
+### 💻 Tech Stack & Infrastructure
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+**DevOps, Cloud & System Administration**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riddsanz/riddsanz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riddsanz/riddsanz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/riddsanz/riddsanz/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddsanz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+</div>
