@@ -58,17 +58,6 @@ Workflows and automated runners managed across secondary/infrastructure repos:
 ### 📊 GitHub Activity
 
 <div align="center">
-
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riddsanz/riddsanz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riddsanz/riddsanz/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/riddsanz/riddsanz/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-
-  <br/><br/>
-
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddsanz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
+  <br/><br/>
 </div>
