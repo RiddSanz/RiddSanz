@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Farid 👋</h1>
+  <h1>Hey there, I'm Farid 👋</h1>
   <p><strong>Informatics Engineering Student | DevOps, Cloud & CyberSec Enthusiast</strong></p>
 
   <p>
